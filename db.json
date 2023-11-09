@@ -272,6 +272,20 @@
       "category": "Transport",
       "amount": "1000",
       "id": 39
+    },
+    {
+      "date": "",
+      "description": "Fare",
+      "category": "Transport",
+      "amount": "5000",
+      "id": 40
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 41
     }
   ]
 }
